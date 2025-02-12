@@ -1,4 +1,7 @@
-const removeFromArray = function() {
+const removeFromArray = function(theArray, ...extras) {
+    let new = []
+
+    
 };
 
 // Do not edit below this line
